@@ -1,0 +1,232 @@
+RUNNING isLegalMove(): Move at (0, 0) deemed VALID
+RUNNING isLegalMove(): Move at (0, 1) deemed VALID
+RUNNING isLegalMove(): Move at (0, 2) deemed VALID
+RUNNING isLegalMove(): Move at (0, 3) deemed VALID
+RUNNING isLegalMove(): Move at (0, 4) deemed VALID
+RUNNING isLegalMove(): Move at (0, 5) deemed VALID
+RUNNING isLegalMove(): Move at (1, 0) deemed VALID
+RUNNING isLegalMove(): Move at (1, 1) deemed VALID
+RUNNING isLegalMove(): Move at (1, 2) deemed VALID
+RUNNING isLegalMove(): Move at (1, 3) deemed VALID
+RUNNING isLegalMove(): Move at (1, 4) deemed VALID
+RUNNING isLegalMove(): Move at (1, 5) deemed VALID
+RUNNING isLegalMove(): Move at (1, 6) deemed VALID
+RUNNING isLegalMove(): Move at (2, 0) deemed VALID
+RUNNING isLegalMove(): Move at (2, 1) deemed VALID
+RUNNING isLegalMove(): Move at (2, 2) deemed VALID
+RUNNING isLegalMove(): Move at (2, 3) deemed VALID
+RUNNING isLegalMove(): Move at (2, 4) deemed VALID
+RUNNING isLegalMove(): Move at (2, 5) deemed VALID
+RUNNING isLegalMove(): Move at (2, 6) deemed VALID
+RUNNING isLegalMove(): Move at (2, 7) deemed VALID
+RUNNING isLegalMove(): Move at (3, 0) deemed VALID
+RUNNING isLegalMove(): Move at (3, 1) deemed VALID
+RUNNING isLegalMove(): Move at (3, 2) deemed VALID
+RUNNING isLegalMove(): Move at (3, 3) deemed VALID
+RUNNING isLegalMove(): Move at (3, 4) deemed VALID
+RUNNING isLegalMove(): Move at (3, 5) deemed VALID
+RUNNING isLegalMove(): Move at (3, 6) deemed VALID
+RUNNING isLegalMove(): Move at (3, 7) deemed VALID
+RUNNING isLegalMove(): Move at (3, 8) deemed VALID
+RUNNING isLegalMove(): Move at (4, 0) deemed VALID
+RUNNING isLegalMove(): Move at (4, 1) deemed VALID
+RUNNING isLegalMove(): Move at (4, 2) deemed VALID
+RUNNING isLegalMove(): Move at (4, 3) deemed VALID
+RUNNING isLegalMove(): Move at (4, 4) deemed VALID
+RUNNING isLegalMove(): Move at (4, 5) deemed VALID
+RUNNING isLegalMove(): Move at (4, 6) deemed VALID
+RUNNING isLegalMove(): Move at (4, 7) deemed VALID
+RUNNING isLegalMove(): Move at (4, 8) deemed VALID
+RUNNING isLegalMove(): Move at (4, 9) deemed VALID
+RUNNING isLegalMove(): Move at (5, 0) deemed VALID
+RUNNING isLegalMove(): Move at (5, 1) deemed VALID
+RUNNING isLegalMove(): Move at (5, 2) deemed VALID
+RUNNING isLegalMove(): Move at (5, 3) deemed VALID
+RUNNING isLegalMove(): Move at (5, 4) deemed VALID
+RUNNING isLegalMove(): Move at (5, 5) deemed VALID
+RUNNING isLegalMove(): Move at (5, 6) deemed VALID
+RUNNING isLegalMove(): Move at (5, 7) deemed VALID
+RUNNING isLegalMove(): Move at (5, 8) deemed VALID
+RUNNING isLegalMove(): Move at (5, 9) deemed VALID
+RUNNING isLegalMove(): Move at (5, 10) deemed VALID
+RUNNING isLegalMove(): Move at (6, 0) deemed VALID
+RUNNING isLegalMove(): Move at (6, 1) deemed VALID
+RUNNING isLegalMove(): Move at (6, 2) deemed VALID
+RUNNING isLegalMove(): Move at (6, 3) deemed VALID
+RUNNING isLegalMove(): Move at (6, 4) deemed VALID
+RUNNING isLegalMove(): Move at (6, 5) deemed VALID
+RUNNING isLegalMove(): Move at (6, 6) deemed VALID
+RUNNING isLegalMove(): Move at (6, 7) deemed VALID
+RUNNING isLegalMove(): Move at (6, 8) deemed VALID
+RUNNING isLegalMove(): Move at (6, 9) deemed VALID
+RUNNING isLegalMove(): Move at (7, 0) deemed VALID
+RUNNING isLegalMove(): Move at (7, 1) deemed VALID
+RUNNING isLegalMove(): Move at (7, 2) deemed VALID
+RUNNING isLegalMove(): Move at (7, 3) deemed VALID
+RUNNING isLegalMove(): Move at (7, 4) deemed VALID
+RUNNING isLegalMove(): Move at (7, 5) deemed VALID
+RUNNING isLegalMove(): Move at (7, 6) deemed VALID
+RUNNING isLegalMove(): Move at (7, 7) deemed VALID
+RUNNING isLegalMove(): Move at (7, 8) deemed VALID
+RUNNING isLegalMove(): Move at (8, 0) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 1) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 2) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 3) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 4) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 5) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 6) deemed INVALID
+RUNNING isLegalMove(): Move at (8, 7) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 0) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 1) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 2) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 3) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 4) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 5) deemed INVALID
+RUNNING isLegalMove(): Move at (9, 6) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 0) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 1) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 2) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 3) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 4) deemed INVALID
+RUNNING isLegalMove(): Move at (10, 5) deemed INVALID
+RUNNING makeMove(): Player X is considering (0, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (0, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (0, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (0, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (0, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (0, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (1, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (2, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 2)
+Value of move: 0
+Artificially making (3,3) the best move by making it result in a score increase of 100
+RUNNING makeMove(): Player X is considering (3, 3)
+Value of move: 100
+RUNNING makeMove(): Player X is considering (3, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (3, 8)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 8)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (4, 9)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 8)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 9)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (5, 10)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 8)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (6, 9)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 0)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 1)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 2)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 3)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 4)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 5)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 6)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 7)
+Value of move: 0
+RUNNING makeMove(): Player X is considering (7, 8)
+Value of move: 0
